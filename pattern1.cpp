@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 ***
 ***
@@ -19,7 +18,7 @@ int main(){
         }
         cout<<endl;
     }
-=======
+}
 /*
 ***
 ***
@@ -47,5 +46,4 @@ int main()
         i++;
     }
     return 0;
->>>>>>> 2f50ac0cc0c4dc6d57cfc13161e0dc5a3dd55df0
 }
